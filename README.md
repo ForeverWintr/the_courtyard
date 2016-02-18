@@ -5,7 +5,11 @@ This is a simple (and hopefully amusing) example of cellular automata written in
 The courtyard consists of 100 cells, each of which updates itself based on the contents of its neighbors. 
 
 To run the program, type:
-       `./courtyard x y`
+
+```bash
+./courtyard x y
+```
+
 where x is a number of dragons, and y is the number of milliseconds between each "frame" of the animation. 
 
 By Tom Rutherford. 
